@@ -1,0 +1,67 @@
+@media (max-width: 480px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: hsl(257, 40%, 49%) url(../images/bg-mobile.svg) no-repeat;
+        background-size: 425px;
+        max-width: 1000px;
+        overflow: hidden;
+    }
+
+    .cabecalho {
+        padding: 40px 50px;
+    }
+
+    .cabecalho img {
+        height: 35px;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 45px;
+    }
+
+    main img {
+        width: 340px;
+    }
+
+    main .informacoes {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 45px;
+    }
+
+    main .informacoes h1 {
+        font-size: 25px;
+    }
+
+    main .informacoes p {
+        margin-bottom: 40px;
+    }
+
+    main .informacoes .btn-register {
+        width: 250px;
+    }
+
+    .rodape .redes-sociais {
+        justify-content: center;
+        align-items: end;
+        margin-right: 0;
+        height: 100px;
+
+    }
+
+    .rodape .redes-sociais i {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+    }
+
+}
