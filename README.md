@@ -4,6 +4,8 @@
 <p>O projeto tratase de uma landing page da marca huddle, que apresenta algumas informações necessarias do serviço ofericido.</p>
 <p>A página possui alguns botões como o de registro e os relacionados a redes sociais.</p>
 
+![Screenshot_17](https://github.com/user-attachments/assets/c373670a-70ad-4e1c-b481-934cca59ce4a)
+
 
 <p>Utilizando das tecnologias HTML e CSS.</p>
 
