@@ -1,7 +1,7 @@
 <h1>Huddle landing page</h1>
 
 <p>Projeto desenvolvido dentro do curso de desenvolvimento web fullstack, DevQuest, baseado em um desafio do frontendmentor, que visa aplicar alguns conceitos avançados de CSS como por exemplo o FlexBox.</p>
-<p>O projeto tratase de uma landing page da marca huddle, que apresenta algumas informações necessarias do serviço ofericido.</p>
+<p>O projeto tratase de uma landing page da marca huddle, que apresenta algumas informações necessarias do serviço oferecido.</p>
 <p>A página possui alguns botões como o de registro e os relacionados a redes sociais.</p>
 
 ![Screenshot_17](https://github.com/user-attachments/assets/c373670a-70ad-4e1c-b481-934cca59ce4a)
